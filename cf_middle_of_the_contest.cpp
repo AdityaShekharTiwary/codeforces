@@ -41,7 +41,5 @@ int main()
 		cout << 0 << M1;
 	else
 		cout << M1;
-
-	
 	return 0;
 }
