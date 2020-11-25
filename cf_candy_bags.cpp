@@ -16,7 +16,6 @@ int main()
     return 0;
 }*/
 
-
 #include <cstdio>
 #include<iostream>
 int main()
