@@ -16,6 +16,7 @@ int main()
             else
                 odd++;
         }
+        
         if((odd==n && n%2==0) || odd==0)
             cout<<"NO"<<endl;
         else
