@@ -35,7 +35,7 @@ int main()
                 }
         }
 
-        for(int i=r+1;i<s.size();i++){
+        for(int i=r;i<s.size();i++){
                 if(s[i]=='+') {
                     num++;
                     p.insert(num);
