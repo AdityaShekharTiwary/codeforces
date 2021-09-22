@@ -8,7 +8,6 @@ using namespace chrono;
 #define mp make_pair
 #define nline "\n"
 
-
 #ifndef ONLINE_JUDGE
 #define debug(x) cerr << #x <<": "; _print(x); cerr << endl;
 #else
